@@ -58,4 +58,8 @@ Alles wat nieuw is voor de Yun, wordt uitgelegd.
 
 
 # referenties:
+- http://www.homautomation.org/2013/10/01/playing-with-arduino-yun/
+- http://arduino.cc/en/Main/ArduinoBoardYun
+- http://arduino.cc/en/Guide/ArduinoYun
+- http://www.adafruit.com/category/168
 - http://www.djresource.eu/images/topics/tricks/cable_schema.jpg
