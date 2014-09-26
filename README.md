@@ -8,7 +8,7 @@ Er komt geen uitleg over wat Arduino en dergelijke is, je hebt best al een paar 
 Alles wat nieuw is voor de Yun, wordt uitgelegd.
 
 # neoPixels
-- neoPixels (http://www.adafruit.com/category/168) zijn rgb-leds die individueel adresseerbaar zijn, wat wil zeggen dat je ze eenvoudig in één kring kan verbinden, maar toch individueel een kleur kan geven of aan/uit zetten.
+- [neoPixels](http://www.adafruit.com/category/168) zijn rgb-leds die individueel adresseerbaar zijn, wat wil zeggen dat je ze eenvoudig in één kring kan verbinden, maar toch individueel een kleur kan geven of aan/uit zetten.
 - Om ze in een Arduino project te gebruiken, download je de [neoPixel library](https://github.com/adafruit/Adafruit_NeoPixel) [(directe link naar de zip)](https://github.com/adafruit/Adafruit_NeoPixel/archive/master.zip). Hier [een uitleg over hoe je libraries toevoegt aan je Arduino IDE](http://arduino.cc/en/Guide/Libraries).
 - Een neoPixel heeft vier soldeerpunten
 ![neoPixel layout](https://raw.githubusercontent.com/nerdlandbe/hartje_met_website/master/footage/neopixelv2.png)
