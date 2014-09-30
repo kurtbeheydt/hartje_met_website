@@ -60,7 +60,7 @@ Alles wat nieuw is voor de Yun, wordt uitgelegd.
 - Mocht je in een fablab passeren of een lasercutter hebben, dan kan je met volgend ontwerp een doosje snijden voor je arduino: https://raw.githubusercontent.com/nerdlandbe/hartje_met_website/master/arduinodoosje.svg. Dit doosje is gemaakt met de geweldige plugin voor inkscape: [Tabbed Box Maker](http://www.keppel.demon.co.uk/111000/111000.html)
 - Combineer met een batterij, bv een [mobile power bank](http://www.dx.com/p/bp-5s-ultra-thin-6000mah-mobile-power-source-bank-for-iphone-5s-samsung-htc-black-grey-309071#.VCrH2CmSxYU). Voordeel hiervan is dat die 5v geeft en een hoge mAh heeft.
 - resultaat:
-![resultaat](https://raw.githubusercontent.com/nerdlandbe/hartje_met_website/master/howto/afgewerkt.jpg)
+![resultaat](https://raw.githubusercontent.com/nerdlandbe/hartje_met_website/master/footage/afgewerkt.jpg)
 
 # referenties:
 - http://www.homautomation.org/2013/10/01/playing-with-arduino-yun/
