@@ -3,6 +3,8 @@ Hartje met website
 
 Een hartje, samengesteld uit rgbleds, waar bij via een website de kleuren, de beweging en de snelheid bestuurd worden.
 
+![Samenvatting](https://raw.githubusercontent.com/nerdlandbe/hartje_met_website/master/howto/samenvatting.jpg)
+
 In de uitleg wordt ingegaan op neoPixels en de arduino Yun in clientmode (via polling om de 15 seconden een nieuw commando gaan ophalen).
 Er komt geen uitleg over wat Arduino en dergelijke is, je hebt best al een paar eenvoudige projectjes met de Arduino Uno achter de rug.
 Alles wat nieuw is voor de Yun, wordt uitgelegd.
